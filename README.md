@@ -1,2 +1,1 @@
-# sentiment-analysis-python
-Using Python’s nltk and scikit-learn packages
+Sentiment Analysis is the process of determining the emotion or opinion expressed in a piece of text, such as a social media post, review, or survey response, towards a particular subject. It uses natural language processing (NLP) and machine learning to categorize the text as positive, negative, or neutral.
